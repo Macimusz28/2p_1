@@ -1,0 +1,18 @@
+* {
+    background-color: rosybrown;
+    color: papayawhip;
+    margin: 20px;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+hr {
+    color: wheat;
+}
+
+h3 {
+    font-family: "Arial Black";
+}
